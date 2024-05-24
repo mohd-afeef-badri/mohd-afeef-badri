@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently at CEA France, the French Alternative Energies and Atomic Energy Commission
+- 🔭 I’m currently working at CEA France, the French Alternative Energies and Atomic Energy Commission
 - 🌱 I’m continously learning HPC, FEM, Meshing, Mesh-adaption  
