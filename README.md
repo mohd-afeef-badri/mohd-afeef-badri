@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 afeef here 
+![](https://komarev.com/ghpvc/?username=mohd-afeef-badri&style=for-the-badge&color=green&abbreviated=true)
 <!--
 **mohd-afeef-badri/mohd-afeef-badri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently at CEA France, the French Alternative Energies and Atomic Energy Commission
+- 🌱 I’m continously learning HPC, FEM, Meshing, Mesh-adaption  
