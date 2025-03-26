@@ -1,7 +1,10 @@
 ## Hi there 👋 afeef here 
 ![](https://komarev.com/ghpvc/?username=mohd-afeef-badri&style=for-the-badge&color=green&abbreviated=true)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=mohd-afeef-badri&theme=github-light)](https://mohd-afeef-badri.github.io)
+
 <!--
 **mohd-afeef-badri/mohd-afeef-badri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
